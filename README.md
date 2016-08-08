@@ -13,8 +13,8 @@ Instructions
 ------------
 The code of this tree have to be put in /device/BLU/S0110UU, after that you can type in terminal:
 
-$ lunch cm_S0110UU-eng
-$ make recoveryimage
+> lunch cm_S0110UU-eng make 
+> recoveryimage
 
 That's all
 
