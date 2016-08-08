@@ -8,3 +8,13 @@ To get started with this TWRP tree you should have CyanogenMod brach 12.1 and TW
 You can get a full overview in the compiling guide at XDA-Developers 
 
 http://forum.xda-developers.com/showthread.php?t=1943625
+
+Instructions
+------------
+The code of this tree have to be put in /device/BLU/S0110UU, after that you can type in terminal:
+
+$ lunch cm_S0110UU-eng
+$ make recoveryimage
+
+That's all
+
