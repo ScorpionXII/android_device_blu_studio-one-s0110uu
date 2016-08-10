@@ -1,3 +1,6 @@
+# android_device_blu_studio-one-s0110uu
+TWRP 3.x device tree for BLU Studio One S0110UU
+
 TWRP 3.x device tree for BLU Studio One S0110UU
 ========================================
 
